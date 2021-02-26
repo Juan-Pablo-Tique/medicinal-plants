@@ -1,0 +1,27 @@
+.goTopButton {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  bottom: 800px;
+  right: 30px;
+  background: var(--primary) url('../img/up.png');
+  border-radius: 50%;
+  background-size: 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  z-index: 1;
+  visibility: hidden;
+  opacity: 0;
+  transition: 1s;
+}
+.goTopButton:hover {
+  background-color: var(--hover-primary);
+  transform: rotate(360deg);
+}
+
+.goTopButton.active {
+  bottom: var(--height-navbar);
+  visibility: visible;
+  opacity: 1;
+}

@@ -1,0 +1,12 @@
+
+#container footer #footer-content{
+
+  width: 100%;
+  height: var(--height-navbar);
+  background: var(--hover-primary);
+  border-top: 3px solid var(--shadow-primary);
+}
+#container footer #footer-content p{
+  text-align: center;
+  color: #fff;
+}

@@ -1,0 +1,102 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead {
+  background-color: var(--primary);
+  text-align: center;
+  color: aliceblue;
+}
+
+thead:hover {
+  background-color: var(--hover-primary);
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+tbody tr {
+  text-align: center;
+}
+tbody tr:hover {
+  background-color: #ddd;
+}
+
+@media only screen and (max-width: 1200px) {
+  tbody tr td {
+    font-size: 14px;
+  }
+
+  th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+  table,
+  thead,
+  tbody,
+  th,
+  td,
+  tr {
+    display: block;
+  }
+
+  thead tr {
+    display: none;
+  }
+
+  tr {
+    margin: 0 0 1rem 0;
+  }
+
+  td {
+    position: relative;
+    padding-left: 30%;
+  }
+
+  td:before {
+    position: absolute;
+    left: 10px;
+    top: 14px;
+    font-weight: bold;
+  }
+
+  td:nth-of-type(1):before {
+    content: "Nombre común";
+  }
+  td:nth-of-type(2):before {
+    content: "Nombre científico";
+  }
+  td:nth-of-type(3):before {
+    content: "Familia";
+  }
+  td:nth-of-type(4):before {
+    content: "Parte útil";
+  }
+  td:nth-of-type(5):before {
+    content: "Propiedades";
+  }
+  td:nth-of-type(6):before {
+    content: "Usos";
+  }
+  td:nth-of-type(7):before {
+    content: "Contraindicaciones";
+  }
+
+  tbody tr {
+    border: 5px solid var(--primary);
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+  td {
+    padding: 50px 10px 10px 10px;
+    text-align: justify;
+  }
+}

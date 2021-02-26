@@ -1,0 +1,126 @@
+[
+  {
+    "common_name": "Lavanda",
+    "scientific_name": "Lavandula officinalis, Lavandula vera, Lavandula agustifolia",
+    "family": "Labiada",
+    "useful_part": "Flores",
+    "properties": "Regenera células, antiinflamatoria, cicatrizante, sedante",
+    "uses": "Quemaduras, heridas, alergias, cuidado de todo tipo de pieles",
+    "contraindications": ["No tiene"]
+  },
+  {
+    "common_name": "Áloe Vera",
+    "scientific_name": "Boucerosia",
+    "family": "Asphodelaceae",
+    "useful_part": "Hojas y gel",
+    "properties": "Es una planta medicinal refrescante y cicatrizante, utilizada para curar quemaduras, inflamaciones y llagas",
+    "uses": "Purgante, coláloga, cicatrizante, tónico, demulcente, antibacteriana, fungicida, estíptica, sedante y antihelmíntica",
+    "contraindications": [
+      "Podría producir cólicos gastrointestinales",
+      "Respecto al gel de aloe vera, no hay referencias sobre efectos secundarios pero se ha mencionado que hay quienes pueden presentar reacciones alérgicas en la piel",
+      "No es recomendable aplicar sábila en cortes profundos o quemaduras graves",
+      "Tampoco se recomienda que niños menores de 12 años ni mujeres embarazadas o amamantando consuman suplementos con este ingrediente",
+      "El uso prolongado podría provocar pérdida de electrolitos, especialmente potasio"
+    ]
+  },
+  {
+    "common_name": "Romero",
+    "scientific_name": "Rosmarinus officinalis",
+    "family": "Lamiaceae",
+    "useful_part": "Hojas, flores y aceites esenciales",
+    "properties": "Está íntimamente vinculada al sistema digestivo por estimular y favorecer las secreciones y la producción de jugos gastrointestinales",
+    "uses": "Astringente, reguladora del sistema nervioso, carminativa, antiséptica, diaforética, antidepresiva, estimulante circulatoria, antiespasmódica, colagoga y diurética. Rubefaciente tópico y analgésico (aceite esencial)",
+    "contraindications": [
+      "Se considera que el principio activo del romero carece de toxicidad; sin embargo, las personas especialmente sensibles pueden experimentar reacciones alérgicas, como dermatitis por contacto y eritema",
+      "No es recomendable su uso en personas con cálculos biliares sin consultar previamente con un médico, esto es debido a que un aumento del drenaje de la vesícula biliar puede ir acompañado de una obstrucción de los conductos biliares"
+    ]
+  },
+  {
+    "common_name": "Manzanilla",
+    "scientific_name": "Matricaria recutita",
+    "family": "Lamiaceae",
+    "useful_part": "Flores y aceite esencial",
+    "properties": "Contiene ácidos grasos, betacarotenos, taninos, mucílagos, camazuelo, cumarina, terpenoides, flavonoides, vitamina C, colina",
+    "uses": "Antiinflamatoria, antiespasmódica, amarga, sedante, antiemética, carminativa y antialergénica",
+    "contraindications": [
+      "Ingerida por vía oral en grandes cantidades puede provocar vómitos",
+      "Puede causar dermatitis de contacto (originadas por sustancias que al contacto con la piel provocan reacciones alérgicas) en aquellas personas sensibles a las margaritas, caléndulas, crisantemos y otras plantas de esta familia",
+      "Se han informado de casos de anafilaxis –reacción inmunitaria generalizada del organismo– entre personas alérgicas"
+    ]
+  },
+  {
+    "common_name": "Menta",
+    "scientific_name": "Mentha",
+    "family": "Lamiaceae",
+    "useful_part": "Partes aéreas y aceite esencial",
+    "properties": "Además de tener un aroma único, la menta forma parte de la medicina natural por sus grandes propiedades antisépticas, descongestionantes y estimulantes",
+    "uses": "Antiespasmódica, tónico digestiva, antiemética, diaforética, colagoga, analgésica y antiséptica",
+    "contraindications": [
+      "Su uso por la noche producir insomnio en algunas personas",
+      "El uso de aceite esencial de menta no está recomendado durante el embarazo y la lactancia, ni en niños menores de 6 años",
+      "El aceite se ha de aplicar mezclado con un aceite como el argán o el aceite de coco, nunca directamente sobre la piel",
+      "No se recomienda beber en infusión a personas que tengan acidez, hernias de hiato, reflujo gástrico o cálculos renales"
+    ]
+  },
+  {
+    "common_name": "Caléndula",
+    "scientific_name": "Calendula officinalis",
+    "family": "Asteraceae",
+    "useful_part": "Flores",
+    "properties": "Antiinflamatoria, cicatrizante, regeneradora celular",
+    "uses": "Eccema, dermatitis, úlceras, quemaduras, heridas, granos, acné, pieles delicadas, picor, quemaduras solares, niños",
+    "contraindications": [
+      "Embarazo",
+      "Lactancia",
+      "Hipersensibilidad a esta planta"
+    ]
+  },
+  {
+    "common_name": "Diente de león",
+    "scientific_name": "Taraxacum officinale",
+    "family": "Asteraceae",
+    "useful_part": "Hojas y raíz",
+    "properties": "Lactones sesquiterpenos, vitaminas A,B, C y D, colina, minerales (incl. potasio). Hojas: cumarinos y carotenoides. Solo la raíza: taraxacosida y ácidos fenólicos",
+    "uses": "Diurética, tónica hepática y digestiva, colagoga, estimula el páncreas y el conducto biliar, suave laxante (solo la raíz)",
+    "contraindications": [
+      "No debe utilizarse nunca en caso de problemas biliares sin la supervisión de un médico y está contraindicado en caso de obstrucción de las vías biliares",
+      "Debido a que contiene sustancias amargas, el diente de león estimula la producción de jugo gástrico, por lo que a ciertas personas puede causarles molestias gástricas e hiperacidez"
+    ]
+  },
+  {
+    "common_name": "Ortiga",
+    "scientific_name": "Urtica dioica",
+    "family": "Asteraceae",
+    "useful_part": "Partes aéreas y raíz",
+    "properties": "Su acción nutritiva, diurética y estimulante circulatoria convierten a la ortiga en una planta medicinal con múltiples beneficios",
+    "uses": "Astringente, diurética, tónica, nutritiva, hemostática, estimulante circulatoria, galactagoga, hipotensora, antiescorbútica y antialergénica",
+    "contraindications": [
+      "Está determinantemente prohibido su uso en mujeres en estado de embarazo ya tiene una serie de hormonas que pueden inducir a la expulsión del bebé antes de tiempo",
+      "Insuficiencia cardíaca, porque puede generar trastornos mayores o interrumpir directamente con algún tratamiento farmacológico establecido",
+      "La persona no debe padecer de alguna insuficiencia de tipo renal"
+    ]
+  },
+  {
+    "common_name": "Ajo",
+    "scientific_name": "Allium sativum",
+    "family": "Amaryllidaceae",
+    "useful_part": "Raíz que tiene forma de bulbo con varios dientes. El aceite de ajo, extraído por destilación por vapor de los bulbos, se utiliza para infecciones en general, respiratorias y gastrointestinales",
+    "properties": "Posee una compleja composición química con más de 100 componentes diferentes, lo que hace que sus propiedades terapéuticas sean incontables. Entre sus componentes destacan aceites volátiles (incluidos alicina, alina y ajoína), enzimas, vitamina A,B,C y E, minerales (incluidos selenio y germanio), flavonoides",
+    "uses": "Antibiótica, expectorante, diaforética (estimula la sudoración), hipotensora (reduce tensión arterial), antitrombótica, hipolipidémica e hipoglucémica (reduce la concentración de lípidos y glucosa en la sangre), antihistamínica (impide la acción de la histamina en las reacciones alérgicas bloqueando sus receptores) y antihelmíntica (infestaciones por vermes, helmintos o lombrices)",
+    "contraindications": [
+      "El aceite de ajo irrita la piel de las mucosas y gástrica, mejor no utilizar en casos de gastritis o úlceras",
+      "No usar la semana anterior y posterior a una operación quirúrgica"
+    ]
+  },
+  {
+    "common_name": "Árnica",
+    "scientific_name": "Arnica montana",
+    "family": "Asteraceae",
+    "useful_part": "Raíz que tiene forma de bulbo con varios dientes. El aceite de ajo, extraído por destilación por vapor de los bulbos, se utiliza para infecciones en general, respiratorias y gastrointestinales",
+    "properties": "Propiedades analgésicas, antiinflamatorias y antimicrobianas",
+    "uses": "Es una planta con múltiples beneficios para la salud, que se comporta como antiinflamatoria, analgésica, vulneraria (favorece la curación de heridas), cicatrizante, antiséptica, antibacteriana, antimicrobiana, antifúngica, antihistamínica y sedante, y de forma más matizada como tónico cardíaco, antiespasmódico, colagogo (facilita la expulsión de bilis) y antiagregante plaquetario",
+    "contraindications": [
+      "La intoxicación con árnica, sobre todo en dosis altas, puede provocar, en efecto, irritación de las mucosas gástricas, trastornos digestivos acompañados de vómitos o diarreas, pero también alteraciones nerviosas, vértigo, alucinaciones, disnea y fallos cardíacos"
+    ]
+  }
+]

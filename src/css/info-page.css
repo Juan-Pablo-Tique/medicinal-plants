@@ -1,0 +1,32 @@
+#container main #info-page {
+  margin-top: var(--height-navbar);
+  display: grid;
+  column-gap: 4rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+#container main #info-page .info-container {
+  grid-column: span 1;
+}
+
+#container main #info-page .about-gallery {
+  grid-column: span 1;
+}
+
+#container main #info-page .about-gallery img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 1200px) {
+  #container main #info-page {
+    gap: 1rem;
+  }
+
+  #container main #info-page .info-container {
+    grid-column: span 2;
+  }
+
+  #container main #info-page .about-gallery {
+    grid-column: span 2;
+  }
+}

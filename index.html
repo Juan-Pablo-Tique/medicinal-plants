@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>10 plantas medicinales</title>
+    <link rel="stylesheet" href="./src/css/global.css" />
+    <link rel="stylesheet" href="./src/css/header.css" />
+    <link rel="stylesheet" href="./src/css/info-page.css" />
+    <link rel="stylesheet" href="./src/css/table.css" />
+    <link rel="stylesheet" href="./src/css/footer.css" />
+    <link rel="stylesheet" href="./src/css/scroll-up.css" />
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        <nav>
+          <div class="logo">
+            <h1><a href="">Plantas medicinales</a></h1>
+          </div>
+          <div class="list-container">
+            <ul class="lists">
+              <li>
+                <a onclick="scrollToTop('container')" class="active">Home</a>
+              </li>
+              <li>
+                <a onclick="scrollToTop('table-description')">tabla</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+
+      <main>
+        <section id="info-page">
+          <div class="info-container">
+            <h1>10 plantas medicinales imprescindibles en tu hogar.</h1>
+            <p>
+              Descubre las 10 plantas medicinales imprescindibles más usadas en
+              tu hogar para tener salud y bienestar de forma natural.
+            </p>
+            <p>
+              Las plantas medicinales pueden ayudarnos con pequeñas dolencias y
+              además nos proporcionan un jardín lleno de aroma que revive a
+              cualquiera. Son fáciles de utilizar para curar dolencias comunes
+              en casa, y no requieren mucho esfuerzo a la hora de buscarlas,
+              cultivarlas o recolectarlas.
+            </p>
+          </div>
+          <div class="about-gallery">
+            <img
+              src="https://www.hola.com/imagenes/estar-bien/20200914175150/plantas-medicinales-recomendadas-farmaceuticas/0-864-535/plantasmedicinales-t.jpg"
+              alt="imagen plantas para remedios naturales"
+            />
+          </div>
+        </section>
+
+        <section id="table-description">
+          <h2>
+            A continuación se muestra las 10 plantas medicinales imprescindibles
+            en tu hogar con sus características.
+          </h2>
+          <table>
+            <thead>
+              <tr>
+                <th>Nombre común</th>
+                <th>Nombre científico</th>
+                <th>Familia</th>
+                <th>Parte útil</th>
+                <th>Propiedades</th>
+                <th>Usos</th>
+                <th>Contraindicaciones</th>
+              </tr>
+            </thead>
+            <tbody id="dataPlantsResponse"></tbody>
+          </table>
+        </section>
+      </main>
+
+      <footer>
+        <div id="footer-content">
+          <p>&copy; Juan Pablo Tique Sogamoso - 2021</p>
+          <p>Todos los derechos reservados.</p>
+        </div>
+      </footer>
+    </div>
+
+    <div class="goTopButton" onclick="scrollToTop('container')"></div>
+
+    <script type="text/javascript" src="./src/js/getData.js"></script>
+    <script type="text/javascript" src="./src/js/scroll.js"></script>
+  </body>
+</html>
